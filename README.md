@@ -7,14 +7,14 @@ https://discord.gg/wgtrssS6K9
 Prefix : !
 
 # Normal Commands :
-help
-dog
+help, 
+dog, 
 test (just a test command)
 
 # Admin Commands :
-ban
+ban, 
 kick
 
 # Features :
-Join Message
+Join Message, 
 Leave Message
