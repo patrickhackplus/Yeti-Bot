@@ -1,4 +1,9 @@
 # Yeti-Bot
+This bot was made for :
+https://discord.gg/wgtrssS6K9
+
+
+# Prefix :
 Prefix : !
 
 # Normal Commands :
